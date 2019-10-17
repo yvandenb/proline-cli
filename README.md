@@ -19,7 +19,7 @@ apt-get install unzip
 unzip proline-cli-0.2.0-SNAPSHOT-bin.zip
 ```
 
-#### How to run the CLI on the example dataset?
+### How to run the CLI on the example dataset?
 
 The zip file includes a small example dataset. It corresponds to a short acquisition (10 minutes gradient) of a sample containing 48 human proteins ([UPS1 sample](https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma/Datasheet/2/ups1dat.pdf)) on an LTQ Orbitrap Velos instrument. Two technical replicates of the same UPS1 concentration are provided as mzDB files (OVEMB150205_25.raw.mzDB, OVEMB150205_27.raw.mzDB) and Mascot MS/MS search results (F071232.dat, F071233.dat).
 
